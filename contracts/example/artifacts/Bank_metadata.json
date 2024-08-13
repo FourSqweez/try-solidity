@@ -58,7 +58,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/example/Bank.sol": "Bank"
+			"contracts/example/Mapping.sol": "Bank"
 		},
 		"evmVersion": "cancun",
 		"libraries": {},
@@ -72,12 +72,12 @@
 		"remappings": []
 	},
 	"sources": {
-		"contracts/example/Bank.sol": {
-			"keccak256": "0x0eae6017aabd8b5c229e832101ea0709beb1ed2d4408374e25b49035235e7082",
+		"contracts/example/Mapping.sol": {
+			"keccak256": "0x31a96a6f06fd4843c37007d50ee518b532099141e8fc5c873746aca2548e1c39",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://77dfa398f004a72dab877460b04e0252f096a9c1617976b006f29941cf8f6e6a",
-				"dweb:/ipfs/QmX7SELGPPBX8NUfsr96kanzUceVNvp1cX9bmop1DgZ7Mh"
+				"bzz-raw://ca15fe825654f0b4b6db19620895c4225bc83e01661350616767b9842d55aa15",
+				"dweb:/ipfs/QmZoc77BEej9HGZuicnJBVU7npGKbcLzoUKKuatbEBjWV9"
 			]
 		}
 	},
